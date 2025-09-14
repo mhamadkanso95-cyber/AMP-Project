@@ -1,0 +1,11 @@
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/*.log
+**/uploads/
+**/app/data/samples/
+**/app/data/templates/
+**/.env
+**/.env.*
+!**/.env.example
